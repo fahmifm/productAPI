@@ -1,7 +1,13 @@
 # productAPI
 An API endpoint for product and category management
+URL = `202.83.120.78`
+Method = GET
+Database = mongoDB
 
-## Route List :
+## Categories list :
+atasan, dress, sepatu
+
+## Route list :
 
 #### Show all product :
 ```

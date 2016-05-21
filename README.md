@@ -1,7 +1,10 @@
 # productAPI
 An API endpoint for product and category management
+
 URL = `202.83.120.78`
+
 Method = GET
+
 Database = mongoDB
 
 ## Categories list :
